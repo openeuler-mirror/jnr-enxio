@@ -1,0 +1,5 @@
+git_url: https://github.com/jnr/jnr-enxio
+version_control: github
+src_repo: jnr/jnr-enxio
+tag_prefix: "jnr-enxio-"
+seperator: "."
